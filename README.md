@@ -10,9 +10,9 @@ Jonah Lawrence (github.com/DenverCoder1)
 Hello there!👋, I am a 15 year old computer enthusiast and programmer who aspires to build fascinating programs and tools with originality. I absolutely love killing my brain over solving problems that are exceedingly complicated or too sophiscated. 
 
 <!-- Icon source https://icons8.com/ -->
-<center> <a href="https://twitter.com/TParwells"><img width="30px" height="30px" alt="Follow on Twitter" title="Twitter" src="https://img.icons8.com/nolan/344/twitter.png"></a> &#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://medium.com/TParwells"><img width="30px" height="30px" alt="Follow on Medium" title="Medium" src="https://img.icons8.com/color-glass/344/medium-logo.png"></a></center>
+<a href="https://twitter.com/TParwells"><img width="30px" height="30px" alt="Follow on Twitter" title="Twitter" src="https://img.icons8.com/nolan/344/twitter.png"></a> &#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://medium.com/TParwells"><img width="30px" height="30px" alt="Follow on Medium" title="Medium" src="https://img.icons8.com/color-glass/344/medium-logo.png"></a>
 
-<img align="right" style="padding-right: 20px;" width="500px" height="290px" src="https://qph.cf2.quoracdn.net/main-qimg-40f4a53b243411e246d7af7e24160e51">
+<img align="right" style="padding-right: 50px;" width="500px" height="290px" src="img/gif_brucealmighty.webp">
 
 ## ⚡Cool things about me
 
@@ -47,7 +47,6 @@ Hello there!👋, I am a 15 year old computer enthusiast and programmer who aspi
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><br />
 
 
-<br/>
 <br/>
 
 <!-- Cards https://github.com/anuraghazra/github-readme-stats -->
