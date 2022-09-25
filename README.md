@@ -12,7 +12,7 @@ Hello there!👋, I am a 15 year old computer enthusiast and programmer who aspi
 <!-- Icon source https://icons8.com/ -->
 <a href="https://twitter.com/TParwells"><img width="30px" height="30px" alt="Follow on Twitter" title="Twitter" src="https://img.icons8.com/nolan/344/twitter.png"></a> &#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://medium.com/TParwells"><img width="30px" height="30px" alt="Follow on Medium" title="Medium" src="https://img.icons8.com/color-glass/344/medium-logo.png"></a>
 
-<img align="right" style="padding-right: 50px;" width="500px" height="290px" src="img/gif_brucealmighty.webp">
+<img align="right" style="padding-right: 50px;" width="500px" height="300px" src="img/gif_brucealmighty.webp">
 
 ## ⚡Cool things about me
 
@@ -27,8 +27,6 @@ Hello there!👋, I am a 15 year old computer enthusiast and programmer who aspi
 🎃 Don't forget to sleep!
 
 👾 προγραμματισμός του επόμενου πίνακα
-
-<br/>
 
 ## 🛠️ Skill-box
 
@@ -53,8 +51,6 @@ Hello there!👋, I am a 15 year old computer enthusiast and programmer who aspi
 ## 🌵 Currently Building
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodedGamer56&repo=Ardupoly&theme=github_dark)](https://github.com/AlphaHawkGaming/Ardupoly)
-
-<br/>
 
 ## 🗿 Stats
 
