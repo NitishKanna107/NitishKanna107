@@ -24,7 +24,6 @@ Hello there!👋, I am a 15 year old computer enthusiast and programmer who aspi
 
 <br/>
 
-🎃 Don't forget to sleep!
 
 👾 προγραμματισμός του επόμενου πίνακα
 
