@@ -10,7 +10,7 @@ Jonah Lawrence (github.com/DenverCoder1)
 Hello there!👋, I am a 15 year old computer enthusiast and programmer who aspires to build fascinating programs and tools with originality. I absolutely love killing my brain over solving problems that are exceedingly complicated or too sophiscated. 
 
 <!-- Icon source https://icons8.com/ -->
-<a href="https://twitter.com/TParwells"><img width="30px" height="30px" alt="Follow on Twitter" title="Twitter" src="https://img.icons8.com/nolan/344/twitter.png"></a> &#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://medium.com/TParwells"><img width="30px" height="30px" alt="Follow on Medium" title="Medium" src="https://img.icons8.com/color-glass/344/medium-logo.png"></a>
+<a href="https://twitter.com/CodedGamer56"><img width="30px" height="30px" alt="Follow on Twitter" title="Twitter" src="https://img.icons8.com/nolan/344/twitter.png"></a> &#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://medium.com/@CodedGamer56"><img width="30px" height="30px" alt="Follow on Medium" title="Medium" src="https://img.icons8.com/color-glass/344/medium-logo.png"></a>
 
 <img align="right" style="padding-right: 50px;" width="500px" height="300px" src="img/gif_brucealmighty.webp">
 
