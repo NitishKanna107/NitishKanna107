@@ -5,20 +5,17 @@ Jonah Lawrence (github.com/DenverCoder1)
 -->
 # 🔭 Nitish 
 
-> *Programmer / Physics & Math Enthusiast / Escaping the Matrix*
+> *Programmer / Physics & Math Enthusiast / Electronics Hobbyist*
 
-Hello there!👋, I am a 17 year old computer enthusiast and programmer who aspires to build fascinating programs and tools with originality. I absolutely love killing my brain over solving problems that are exceedingly complicated or too sophiscated. 
+Hello there!👋, I am a 17 year old computer enthusiast and programmer who aspires to build fascinating programs and tools with originality. I like solving puzzling problems and finding new things to learn to challenge myself. 
 
-
-<img align="right" style="padding-right: 50px;" width="500px" height="300px" src="img/gif_brucealmighty.webp">
-
-## ⚡Cool things about me
+## ⚡About me
 
 - 🚀 Turning absurd ideas into reality
 - 📔 Trying out different tools and languages
 - 🌱 Learning hard and complicated stuff
-- 💀 Obliterating my neurons by debugging code
-- 🥊 Typing at 120 WPM
+- ⛏️ Improving myself and growing my skills
+- 🏗️ Building websites and algorithms
 
 <br/>
 
