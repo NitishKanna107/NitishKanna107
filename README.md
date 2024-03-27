@@ -5,9 +5,9 @@ Jonah Lawrence (github.com/DenverCoder1)
 -->
 # 🔭 Nitish 
 
-> *Code Jedi / Writer / Photographer / Potential Astronomer*
+> *Programmer / Physics & Math Enthusiast / Escaping the Matrix*
 
-Hello there!👋, I am a 16 year old computer enthusiast and programmer who aspires to build fascinating programs and tools with originality. I absolutely love killing my brain over solving problems that are exceedingly complicated or too sophiscated. 
+Hello there!👋, I am a 17 year old computer enthusiast and programmer who aspires to build fascinating programs and tools with originality. I absolutely love killing my brain over solving problems that are exceedingly complicated or too sophiscated. 
 
 
 <img align="right" style="padding-right: 50px;" width="500px" height="300px" src="img/gif_brucealmighty.webp">
@@ -44,8 +44,8 @@ Hello there!👋, I am a 16 year old computer enthusiast and programmer who aspi
 <!-- Cards https://github.com/anuraghazra/github-readme-stats -->
 ## 🌵 Currently Building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodedGamer56&repo=Ardupoly&theme=github_dark)](https://github.com/CodedGamer56/Flamingo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NitishKanna107&repo=Ardupoly&theme=github_dark)](https://github.com/CodedGamer56/Flamingo)
 
 ## 🗿 Stats
 
-[![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodedGamer56&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=NitishKanna107&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
