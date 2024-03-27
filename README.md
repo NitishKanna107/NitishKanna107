@@ -41,7 +41,8 @@ Hello there!👋, I am a 17 year old computer enthusiast and programmer who aspi
 <!-- Cards https://github.com/anuraghazra/github-readme-stats -->
 ## 🌵 Currently Building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NitishKanna107&repo=Ardupoly&theme=github_dark)](https://github.com/CodedGamer56/Flamingo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlphaHawkGaming&repo=Ardupoly&theme=github_dark)](https://github.com/AlphaHawkGaming/Ardupoly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NitishKanna107&repo=Flamingo&theme=github_dark)](https://github.com/NitishKanna107/Flamingo)
 
 ## 🗿 Stats
 
