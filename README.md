@@ -40,7 +40,7 @@ Hello there!👋, I am a 17 year old computer enthusiast and programmer who aspi
 
 <!-- Cards https://github.com/anuraghazra/github-readme-stats -->
 ## 🌵 Project Showcase
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlphaHawkGaming&repo=Ardupoly&theme=github_dark)](https://github.com/NitishKanna107/BullsCows)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NitishKanna107&repo=BullsCows&theme=github_dark)](https://github.com/NitishKanna107/BullsCows)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NitishKanna107&repo=Flamingo&theme=github_dark)](https://github.com/NitishKanna107/Flamingo)
 
 ## 🗿 Stats
